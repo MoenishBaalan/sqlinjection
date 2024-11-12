@@ -1,4 +1,4 @@
-![379093383-a20508d4-9161-4857-afe9-9b91df6c37b1](https://github.com/user-attachments/assets/2ea3132a-ae16-404a-b5e5-aa6459760cc4)# sqlinjection
+# sqlinjection
 Exploiting SQL Injection vulnerability
 
 # AIM:
